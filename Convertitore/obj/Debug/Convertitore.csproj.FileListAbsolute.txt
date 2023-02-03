@@ -1,0 +1,8 @@
+E:\Scuola\info\c#\Convertitore\bin\Debug\Convertitore.exe.config
+E:\Scuola\info\c#\Convertitore\bin\Debug\Convertitore.exe
+E:\Scuola\info\c#\Convertitore\bin\Debug\Convertitore.pdb
+E:\Scuola\info\c#\Convertitore\obj\Debug\Convertitore.csproj.AssemblyReference.cache
+E:\Scuola\info\c#\Convertitore\obj\Debug\Convertitore.csproj.SuggestedBindingRedirects.cache
+E:\Scuola\info\c#\Convertitore\obj\Debug\Convertitore.csproj.CoreCompileInputs.cache
+E:\Scuola\info\c#\Convertitore\obj\Debug\Convertitore.exe
+E:\Scuola\info\c#\Convertitore\obj\Debug\Convertitore.pdb
