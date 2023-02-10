@@ -1,0 +1,8 @@
+E:\Scuola\info\c#\Cifre_Non_uscite\bin\Debug\Cifre_Non_uscite.exe.config
+E:\Scuola\info\c#\Cifre_Non_uscite\bin\Debug\Cifre_Non_uscite.exe
+E:\Scuola\info\c#\Cifre_Non_uscite\bin\Debug\Cifre_Non_uscite.pdb
+E:\Scuola\info\c#\Cifre_Non_uscite\obj\Debug\Cifre_Non_uscite.csproj.AssemblyReference.cache
+E:\Scuola\info\c#\Cifre_Non_uscite\obj\Debug\Cifre_Non_uscite.csproj.SuggestedBindingRedirects.cache
+E:\Scuola\info\c#\Cifre_Non_uscite\obj\Debug\Cifre_Non_uscite.csproj.CoreCompileInputs.cache
+E:\Scuola\info\c#\Cifre_Non_uscite\obj\Debug\Cifre_Non_uscite.exe
+E:\Scuola\info\c#\Cifre_Non_uscite\obj\Debug\Cifre_Non_uscite.pdb
